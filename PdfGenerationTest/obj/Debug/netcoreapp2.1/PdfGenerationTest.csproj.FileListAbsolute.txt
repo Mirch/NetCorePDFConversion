@@ -1,0 +1,17 @@
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\PdfGenerationTest.deps.json
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\PdfGenerationTest.runtimeconfig.json
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\PdfGenerationTest.runtimeconfig.dev.json
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\PdfGenerationTest.dll
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.csprojAssemblyReference.cache
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.csproj.CoreCompileInputs.cache
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.RazorAssemblyInfo.cache
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.RazorAssemblyInfo.cs
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.AssemblyInfoInputs.cache
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.AssemblyInfo.cs
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.RazorTargetAssemblyInfo.cache
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\PdfGenerationTest.pdb
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.dll
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\obj\Debug\netcoreapp2.1\PdfGenerationTest.pdb
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\libwkhtmltox.dll
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\libwkhtmltox.dylib
+C:\Users\Mircea\source\repos\PdfGenerationTest\PdfGenerationTest\bin\Debug\netcoreapp2.1\libwkhtmltox.so
